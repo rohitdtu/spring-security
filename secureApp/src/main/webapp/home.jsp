@@ -8,5 +8,6 @@
 </head>
 <body>
 Welcome rohit
+<a href="/logout">LOGOUT</a>
 </body>
 </html>

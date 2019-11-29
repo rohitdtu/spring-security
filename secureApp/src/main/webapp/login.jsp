@@ -7,6 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
+	${SPRING_SECURITY_LAST_EXCEPTION.message}
+	<form>	
 	<h1>Login</h1>
+	</form>
 </body>
 </html>

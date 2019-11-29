@@ -15,8 +15,6 @@ import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 @Configuration
-@EnableJpaRepositories
-@EnableTransactionManagement 
 @EnableWebSecurity
 public class AppSecurityConfig extends WebSecurityConfigurerAdapter{
 
